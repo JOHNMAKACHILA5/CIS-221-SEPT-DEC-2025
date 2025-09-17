@@ -1,0 +1,42 @@
+
+.register{
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    padding: 14px;
+    justify-content: center;
+}
+#register-form{
+  background-color: white;
+  padding: 14px;
+  width: 600px;
+  border-radius: 14px;
+}
+
+input[type="text"], input[type="number"], input[type="email"], input[type="password"]{
+  width: 95%;
+  font-size: 20px;
+  padding: 7px;
+  border-radius: 7px;
+}
+
+input[type="submit"]{
+ width: 95%;
+  font-size: 20px;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: purple;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover{
+  background-color: yellow;
+  color: black;
+}
+
+label{
+font-size: 20px;
+padding-bottom: 15px;
+}
