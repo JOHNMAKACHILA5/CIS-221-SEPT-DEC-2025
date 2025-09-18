@@ -1,0 +1,27 @@
+
+body{
+    background-color: blueviolet;
+}
+.time-table{
+ background-color: purple;
+    
+}
+caption{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+
+.days{
+    color: white;
+}
+#term1{
+    background-color: peru;
+}
+.top{
+    color: yellow;
+}
+.head{
+    color: white;
+}
